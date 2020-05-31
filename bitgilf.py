@@ -1,7 +1,7 @@
 import urllib.request, json
 from playsound import playsound
  
-target = 9440
+target = 9592 # you can change this based on your target price
 change = True
 def value():
     with urllib.request.urlopen("https://api.coindesk.com/v1/bpi/currentprice.json") as url:
