@@ -1,2 +1,8 @@
-# Bitcoin-price-change-detector-Gilfoyle-edition-
-First "Real" thing that I wrote. People who love this TV Show will enjoy this stuff.
+# Bitcoin Price Change Detector
+I wrote this code just for fun. People who love gilfoyle will enjoy this stuff.
+
+after Downloading just do 
+     pip install -r requirements.txt
+
+then run python script.
+ that's it.
